@@ -1,0 +1,22 @@
+.form {
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 300px;
+    background-color: white;
+    border-radius: 12px;
+    padding: 20px;
+
+}
+.title {
+    front-size:20px;
+    front-weight:bold;
+    color: black;
+    }
+.message {
+    color: #a3a3a3;
+    front-size:34px;
+    margin-top: 4px;
+    text-align: center;
+}
